@@ -1,0 +1,4 @@
+Construis un abri pour survivre la nuit.
+Utilise un bateau pour te déplacer sur l'eau.
+Utilise les modes de vue à la première et troisième personne.
+Appuie 2 fois sur la barre espace pour voler en créatif.
